@@ -1,0 +1,12 @@
+2
+background1
+x 0
+y 0
+w 462
+h 482
+background2
+x 0
+y 487
+w 460
+h 414
+C:\Users\Admin\Desktop\All-Case\Module-2\Fly-War\RealGame\source\background.png
