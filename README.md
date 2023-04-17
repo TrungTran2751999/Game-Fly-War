@@ -15,6 +15,6 @@
 <p align="center">Hình 5. Tiêu diệt kẻ thù</p>
 
 <p align="center"><img src="https://res.cloudinary.com/da6h8op5l/image/upload/v1681398755/module-2/end-game_obmzab.png" /></p>
-<p align="center">Hình 5. Giao diện kết thúc trò chơi</p>
+<p align="center">Hình 6. Giao diện kết thúc trò chơi</p>
 
 
